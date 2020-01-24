@@ -4,9 +4,9 @@ This is a repository for sharing power bi dashboards
 
 # PowerBI REPO
 
-
-<iframe width="1920" height="1080" src="https://app.powerbi.com/view?r=eyJrIjoiN2ExMWUzYjYtMDJlNy00ZGE1LTg1NDYtN2FiNTE2MzM5NjliIiwidCI6ImQwNWQ0YzgwLWRhMWUtNGNkNy04M2E2LTBkMjA5NGIyMDQxOCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+<figure class="video_container">
+<iframe width="1024" height="576" src="https://app.powerbi.com/view?r=eyJrIjoiN2ExMWUzYjYtMDJlNy00ZGE1LTg1NDYtN2FiNTE2MzM5NjliIiwidCI6ImQwNWQ0YzgwLWRhMWUtNGNkNy04M2E2LTBkMjA5NGIyMDQxOCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+</figure>
 
 
 
