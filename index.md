@@ -12,4 +12,4 @@ This is a repository for sharing power bi dashboards
 
 ### Support or Contact
 
-Check out our [fbpage](https://www.facebook.com/powerbiCaboVerde/).
+Check out our [fbpage](https://www.facebook.com/powerbiCaboVerde/){:target="_blank"}.
