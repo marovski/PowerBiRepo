@@ -1,1 +1,30 @@
+
+# Theme
 theme: jekyll-theme-hacker
+
+# Site settings
+title:          Power BI Repo
+description:    "Share Power BI Dashboards/Reports"
+image: https://marovski.github.io/css/img/portraitMarovski.png
+url: https://marovski.github.io/PowerBiRepo/
+
+
+
+
+# Author
+author:
+  name:         Mário Cardoso
+  url:          https://marovski.github.io
+  
+
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+
+  
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
