@@ -1,5 +1,6 @@
 
-
+# Theme
+theme: jekyll-theme-hacker
 
 # Site settings
 title:          Power BI Repo
@@ -24,6 +25,4 @@ sass:
 
 
   
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+
