@@ -1,13 +1,13 @@
 @import "{{site.theme}}";
 
-iframe{
+#frame{
     height:541.25;
     width: 1140;
 
 }
 
 @media (min-width: 500px) {
-    iframe {
+    #frame {
         height:300.25;
     width: 410;
     }
