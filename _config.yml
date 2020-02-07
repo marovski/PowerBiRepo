@@ -18,10 +18,7 @@ author:
   
 
 
-# Assets
-sass:
-  sass_dir:     sass/_style
-  style:        compressed
+
 
 
   
