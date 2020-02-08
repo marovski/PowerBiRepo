@@ -16,6 +16,9 @@ author:
   name:         Mário Cardoso
   url:          https://marovski.github.io
   
+  
+#Build Settings
+markdown: kramdown
 
 
 
