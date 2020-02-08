@@ -1,4 +1,4 @@
-<link href="./assets/css/style.scss" rel="stylesheet"></link>
+<link href="./assets/css/style.scss" rel="stylesheet">
 ## Welcome to Power BI REPO
 
 This is a repository for sharing power bi dashboards
