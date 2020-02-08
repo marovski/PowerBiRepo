@@ -7,7 +7,7 @@ This is a repository for sharing power bi dashboards
 
 |Theme|Links|
 |-----|-----|
-| Crime|<img id="powerbix"> |   
+| Crime|<img id="powerbix" src="https://marovski.github.io/PowerBiRepo/assets/css/crimepbix.png"> |   
 |  Human |   |  
 |  Finance |   |   
 
