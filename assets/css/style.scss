@@ -3,3 +3,14 @@
 
 @import "{{site.theme}}";
 
+#powerbix{
+    background-image: url(crimepbix.png);
+
+}
+
+@media (min-width: 500px) {
+    #powerbix {
+        height:300.25;
+        width: 410;
+    }
+  }

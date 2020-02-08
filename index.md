@@ -1,30 +1,17 @@
+<link href="./assets/css/style.scss" rel="stylesheet"></link>
 ## Welcome to Power BI REPO
 
 This is a repository for sharing power bi dashboards
 
 # PowerBI REPO
 
-|Theme|Link|
-|---|---|
-|  Crime |
-![powerbix](./assets/css/crimepbix.png "Criminalidade CV") |   
-|   |   |  
-|   |   |   
+|Theme|Links|
+|-----|-----|
+| Crime|<img id="powerbix"> |   
+|  Human |   |  
+|  Finance |   |   
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-#frame{
-    background-image: url(crimepbix.png);
 
-}
-
-@media (min-width: 500px) {
-    #frame {
-        height:300.25;
-        width: 410;
-    }
-  }
-</style>")
 
 
 
