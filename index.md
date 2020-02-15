@@ -1,7 +1,7 @@
 <link href="./assets/css/style.scss" rel="stylesheet">
 ## Welcome to Power BI REPO
 
-This is a repository for sharing power bi dashboards
+This is a repository for sharing power bi dashboards about Cabo Verde
 
 # PowerBI REPO
 
