@@ -7,7 +7,7 @@ This is a repository for sharing power bi dashboards about Cabo Verde
 
 |Theme|Links|
 |-----|-----|
-| Crime|<a href="https://app.powerbi.com/groups/me/reports/e5b8614c-a588-424c-be7f-2b4c7258bef1?ctid=d05d4c80-da1e-4cd7-83a6-0d2094b20418" target="_blank"><img id="powerbix" src="https://marovski.github.io/PowerBiRepo/assets/css/powerCrimeCV.gif"> </a>|   
+| Crime|<a href="https://github.com/marovski/PowerBiRepo/assets/pbiFile/crime.pbix" target="_blank"><img id="powerbix" src="https://marovski.github.io/PowerBiRepo/assets/css/powerCrimeCV.gif"> </a>|   
 |  Human Resources|   |  
 |  Finance |   |   
 
