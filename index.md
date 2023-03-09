@@ -4,8 +4,9 @@
 This is a repository for sharing power bi dashboards about Cabo Verde
 
 # PowerBI REPO
+
 | Theme |             Dashboard                                                         |
-|---	|---	                                                                        |
+| :----: 	| :----:                                                                        |
 | Crime | <img id="powerbix" src="./assets/media/crimeCV.gif">                          | 
 |       |                                                                               |  
 | Process Management | <img id="powerbix" src="./assets/media/GestaoProcessosDash.gif"> |  
