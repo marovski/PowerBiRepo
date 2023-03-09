@@ -16,4 +16,4 @@ This is a repository for sharing power bi dashboards about Cabo Verde
 ### Support or Contact
 
 Check out our [fbpage](https://www.facebook.com/powerbiCaboVerde/){:target="_blank"}
-@Developed by Mário Cardoso(marovski.github.io){:target="_blank"}
+@Developed by [Mário Cardoso](marovski.github.io){:target="_blank"}
