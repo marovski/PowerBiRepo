@@ -11,7 +11,8 @@ This is a repository for sharing power bi dashboards about Cabo Verde
  
 |  Process Management| <img id="powerbix" src="./assets/media/GestaoProcessosDash.gif"> |  
 
-|  Human Resources|   |  
+|  HR Recruitment|  <img id="powerbix" src="./assets/media/pepapDASHBOAD_opt.gif"> |  
 ### Support or Contact
 
-Check out our [fbpage](https://www.facebook.com/powerbiCaboVerde/){:target="_blank"}.
+Check out our [fbpage](https://www.facebook.com/powerbiCaboVerde/){:target="_blank"}
+@Developed by Mário Cardoso(marovski.github.io){:target="_blank"}
