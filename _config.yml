@@ -19,8 +19,8 @@ author:
   
 #Build Settings
 markdown: kramdown
-
-
+plugins:
+- jekyll-seo-tag
 
 
 
